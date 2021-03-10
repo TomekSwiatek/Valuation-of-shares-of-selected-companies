@@ -12983,3 +12983,21 @@ See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stab
 2021-03-10 19:57:12,175 [9800] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
 2021-03-10 19:57:12,176 [9800] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
 2021-03-10 19:57:12,176 [9800] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2021-03-10 20:01:52,243 [9800] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2021-03-10 20:01:52,243 [9800] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2021-03-10 20:01:52,243 [9800] INFO     root:247: [JupyterRequire] Initializing comms.
+2021-03-10 20:01:52,246 [9800] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2021-03-10 20:01:52,246 [9800] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2021-03-10 20:01:52,247 [9800] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2021-03-10 20:09:16,154 [9800] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2021-03-10 20:09:16,154 [9800] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2021-03-10 20:09:16,154 [9800] INFO     root:247: [JupyterRequire] Initializing comms.
+2021-03-10 20:09:16,156 [9800] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2021-03-10 20:09:16,157 [9800] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2021-03-10 20:09:16,157 [9800] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2021-03-10 20:10:14,567 [9800] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2021-03-10 20:10:14,568 [9800] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2021-03-10 20:10:14,568 [9800] INFO     root:247: [JupyterRequire] Initializing comms.
+2021-03-10 20:10:14,572 [9800] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2021-03-10 20:10:14,573 [9800] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2021-03-10 20:10:14,573 [9800] DEBUG    root:97: [JupyterRequire] Registering comm targets.
