@@ -11775,3 +11775,1211 @@ See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stab
 2021-03-07 13:04:02,358 [9632] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
 2021-03-07 13:04:02,359 [9632] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
 2021-03-07 13:04:02,360 [9632] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2021-03-07 13:14:12,871 [9584] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2021-03-07 13:14:12,872 [9584] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2021-03-07 13:14:12,874 [9584] INFO     root:247: [JupyterRequire] Initializing comms.
+2021-03-07 13:14:12,878 [9584] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2021-03-07 13:14:12,879 [9584] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2021-03-07 13:14:12,880 [9584] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2021-03-07 13:14:13,393 [9584] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2021-03-07 13:14:13,393 [9584] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2021-03-07 13:14:13,393 [9584] INFO     root:247: [JupyterRequire] Initializing comms.
+2021-03-07 13:14:13,396 [9584] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2021-03-07 13:14:13,397 [9584] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2021-03-07 13:14:13,398 [9584] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2021-03-07 13:17:07,496 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:17:07,496 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:17:09,272 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:17:09,273 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:17:09,276 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:17:09,277 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:17:09,278 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:17:09,483 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:17:09,483 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:17:09,487 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:17:09,487 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:17:09,490 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:17:10,394 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:17:10,394 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:17:10,397 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:17:10,398 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:17:10,400 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:17:10,402 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:17:10,403 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:17:10,406 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:17:10,406 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:17:10,409 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:17:11,727 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:17:11,728 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:17:11,731 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:17:11,731 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:17:11,733 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:17:11,736 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:17:11,737 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:17:11,739 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:17:11,740 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:17:11,742 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:17:12,744 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:17:12,745 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:17:12,748 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:17:12,748 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:17:12,750 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:17:12,753 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:17:12,754 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:17:12,756 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:17:12,756 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:17:12,759 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:17:15,011 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:17:15,012 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:17:15,015 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:17:15,015 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:17:15,017 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:17:15,116 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:17:15,116 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:17:15,119 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:17:15,121 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:17:15,123 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:17:32,851 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:17:32,852 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:17:34,643 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:17:34,643 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:17:34,646 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:17:34,647 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:17:34,650 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:17:34,848 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:17:34,848 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:17:34,852 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:17:34,852 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:17:34,854 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:17:35,861 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:17:35,862 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:17:35,865 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:17:35,865 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:17:35,868 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:17:35,870 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:17:35,871 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:17:35,874 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:17:35,874 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:17:35,876 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:17:37,204 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:17:37,205 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:17:37,208 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:17:37,209 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:17:37,210 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:17:37,213 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:17:37,214 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:17:37,217 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:17:37,217 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:17:37,220 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:17:38,230 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:17:38,230 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:17:38,233 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:17:38,234 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:17:38,236 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:17:38,238 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:17:38,238 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:17:38,240 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:17:38,241 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:17:38,243 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:17:40,484 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:17:40,486 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:17:40,488 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:17:40,489 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:17:40,491 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:17:40,589 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:17:40,590 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:17:40,593 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:17:40,594 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:17:40,595 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:23:47,714 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:23:47,716 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:23:49,599 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:23:49,599 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:23:49,602 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:23:49,603 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:23:49,605 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:23:49,698 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:23:49,698 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:23:49,701 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:23:49,702 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:23:49,704 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:23:50,818 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:23:50,819 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:23:50,822 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:23:50,823 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:23:50,824 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:23:50,827 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:23:50,828 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:23:50,830 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:23:50,830 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:23:50,832 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:23:52,184 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:23:52,186 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:23:52,189 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:23:52,189 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:23:52,191 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:23:52,194 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:23:52,195 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:23:52,197 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:23:52,197 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:23:52,199 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:23:53,271 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:23:53,271 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:23:53,274 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:23:53,275 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:23:53,277 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:23:53,280 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:23:53,281 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:23:53,284 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:23:53,284 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:23:53,286 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:23:55,595 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:23:55,596 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:23:55,599 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:23:55,599 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:23:55,601 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:23:55,696 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:23:55,696 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:23:55,699 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:23:55,700 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:23:55,702 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:24:25,835 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:24:25,836 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:24:27,739 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:24:27,740 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:24:27,743 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:24:27,743 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:24:27,745 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:24:27,840 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:24:27,840 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:24:27,843 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:24:27,844 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:24:27,846 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:24:28,971 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:24:28,972 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:24:28,975 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:24:28,976 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:24:28,977 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:24:28,980 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:24:28,981 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:24:28,983 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:24:28,984 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:24:28,986 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:24:30,368 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:24:30,368 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:24:30,371 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:24:30,372 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:24:30,374 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:24:30,377 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:24:30,377 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:24:30,380 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:24:30,381 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:24:30,383 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:24:31,447 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:24:31,448 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:24:31,451 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:24:31,452 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:24:31,454 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:24:31,456 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:24:31,457 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:24:31,459 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:24:31,460 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:24:31,462 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:24:33,766 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:24:33,767 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:24:33,770 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:24:33,771 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:24:33,772 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:24:33,867 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:24:33,868 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:24:33,871 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:24:33,871 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:24:33,873 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:24:52,392 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:24:52,392 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:24:54,335 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:24:54,335 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:24:54,338 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:24:54,339 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:24:54,341 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:24:54,466 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:24:54,467 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:24:54,475 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:24:54,476 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:24:54,477 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:24:55,731 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:24:55,732 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:24:55,738 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:24:55,738 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:24:55,741 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:24:55,744 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:24:55,745 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:24:55,748 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:24:55,749 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:24:55,753 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:24:57,180 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:24:57,180 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:24:57,184 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:24:57,184 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:24:57,186 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:24:57,188 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:24:57,189 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:24:57,192 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:24:57,192 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:24:57,195 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:24:58,282 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:24:58,283 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:24:58,286 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:24:58,287 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:24:58,289 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:24:58,291 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:24:58,292 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:24:58,295 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:24:58,295 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:24:58,297 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:25:00,672 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:25:00,673 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:25:00,676 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:25:00,676 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:25:00,679 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:25:00,793 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:25:00,793 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:25:00,797 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:25:00,797 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:25:00,799 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:26:31,235 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:26:31,236 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:26:33,058 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:26:33,059 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:26:33,062 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:26:33,062 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:26:33,064 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:26:33,178 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:26:33,179 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:26:33,182 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:26:33,183 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:26:33,185 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:26:34,296 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:26:34,296 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:26:34,300 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:26:34,300 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:26:34,303 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:26:34,305 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:26:34,306 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:26:34,309 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:26:34,310 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:26:34,312 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:26:35,744 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:26:35,744 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:26:35,747 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:26:35,748 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:26:35,750 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:26:35,753 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:26:35,753 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:26:35,756 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:26:35,757 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:26:35,759 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:26:36,846 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:26:36,847 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:26:36,850 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:26:36,851 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:26:36,854 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:26:36,857 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:26:36,858 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:26:36,860 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:26:36,860 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:26:36,862 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:26:39,210 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:26:39,211 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:26:39,214 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:26:39,215 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:26:39,217 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:26:39,327 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:26:39,328 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:26:39,331 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:26:39,331 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:26:39,333 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:27:42,692 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:27:42,692 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:27:44,623 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:27:44,624 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:27:44,629 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:27:44,630 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:27:44,634 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:27:44,757 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:27:44,758 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:27:44,763 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:27:44,764 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:27:44,765 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:27:45,894 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:27:45,895 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:27:45,898 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:27:45,898 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:27:45,900 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:27:45,903 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:27:45,904 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:27:45,907 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:27:45,907 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:27:45,909 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:27:47,298 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:27:47,299 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:27:47,302 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:27:47,302 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:27:47,304 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:27:47,307 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:27:47,307 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:27:47,310 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:27:47,311 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:27:47,313 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:27:48,388 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:27:48,389 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:27:48,392 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:27:48,393 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:27:48,394 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:27:48,397 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:27:48,398 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:27:48,401 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:27:48,401 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:27:48,403 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:27:50,736 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:27:50,737 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:27:50,739 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:27:50,740 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:27:50,742 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:27:50,853 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:27:50,855 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:27:50,858 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:27:50,858 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:27:50,861 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:28:02,210 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:28:02,211 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:28:04,174 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:28:04,175 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:28:04,178 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:28:04,178 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:28:04,180 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:28:04,286 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:28:04,287 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:28:04,290 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:28:04,291 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:28:04,293 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:28:05,427 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:28:05,428 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:28:05,431 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:28:05,431 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:28:05,433 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:28:05,436 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:28:05,437 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:28:05,440 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:28:05,440 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:28:05,442 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:28:06,924 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:28:06,924 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:28:06,928 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:28:06,928 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:28:06,930 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:28:06,933 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:28:06,934 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:28:06,937 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:28:06,937 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:28:06,940 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:28:08,012 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:28:08,013 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:28:08,016 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:28:08,016 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:28:08,018 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:28:08,022 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:28:08,022 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:28:08,025 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:28:08,026 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:28:08,028 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:28:10,341 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:28:10,342 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:28:10,345 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:28:10,347 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:28:10,349 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:28:10,460 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:28:10,461 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:28:10,464 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:28:10,464 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:28:10,466 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:28:30,367 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:28:30,368 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:28:32,214 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:28:32,214 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:28:32,217 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:28:32,218 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:28:32,220 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:28:32,341 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:28:32,342 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:28:32,345 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:28:32,345 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:28:32,348 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:28:33,474 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:28:33,474 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:28:33,477 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:28:33,478 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:28:33,480 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:28:33,483 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:28:33,483 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:28:33,486 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:28:33,487 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:28:33,489 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:28:34,869 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:28:34,870 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:28:34,873 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:28:34,873 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:28:34,876 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:28:34,878 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:28:34,879 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:28:34,882 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:28:34,882 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:28:34,884 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:28:35,946 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:28:35,947 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:28:35,950 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:28:35,951 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:28:35,953 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:28:35,955 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:28:35,956 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:28:35,959 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:28:35,960 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:28:35,961 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:28:38,312 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:28:38,342 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:28:38,345 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:28:38,346 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:28:38,348 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:28:38,622 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:28:38,623 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:28:38,626 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:28:38,626 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:28:38,628 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:28:45,285 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:28:45,286 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:28:47,097 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:28:47,098 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:28:47,101 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:28:47,101 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:28:47,104 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:28:47,212 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:28:47,213 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:28:47,215 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:28:47,216 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:28:47,218 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:28:48,384 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:28:48,384 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:28:48,388 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:28:48,389 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:28:48,392 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:28:48,395 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:28:48,395 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:28:48,398 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:28:48,399 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:28:48,401 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:28:49,783 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:28:49,783 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:28:49,787 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:28:49,787 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:28:49,789 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:28:49,792 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:28:49,793 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:28:49,795 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:28:49,796 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:28:49,798 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:28:50,855 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:28:50,856 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:28:50,858 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:28:50,859 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:28:50,860 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:28:50,862 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:28:50,863 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:28:50,863 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:28:50,864 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:28:50,865 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:28:53,180 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:28:53,181 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:28:53,184 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:28:53,184 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:28:53,186 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:28:53,299 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:28:53,299 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:28:53,303 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:28:53,303 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:28:53,305 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:29:03,620 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:29:03,620 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:29:05,431 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:29:05,432 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:29:05,435 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:29:05,436 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:29:05,437 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:29:05,545 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:29:05,546 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:29:05,549 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:29:05,550 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:29:05,552 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:29:06,718 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:29:06,719 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:29:06,722 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:29:06,722 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:29:06,725 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:29:06,728 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:29:06,729 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:29:06,731 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:29:06,733 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:29:06,734 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:29:08,167 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:29:08,168 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:29:08,171 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:29:08,171 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:29:08,173 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:29:08,176 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:29:08,177 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:29:08,179 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:29:08,180 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:29:08,182 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:29:09,272 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:29:09,273 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:29:09,276 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:29:09,276 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:29:09,280 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:29:09,282 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:29:09,282 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:29:09,285 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:29:09,286 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:29:09,289 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:29:11,626 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:29:11,627 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:29:11,630 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:29:11,630 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:29:11,632 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:29:11,745 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:29:11,745 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:29:11,748 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:29:11,749 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-03, 1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18,
+       1.e+21, 1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:29:11,751 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 7.053531234246688 vmax 1.525673243675934e+26
+2021-03-07 13:29:23,156 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:29:23,157 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:29:25,172 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:29:25,173 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:29:25,175 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:29:25,176 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:29:25,178 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:29:25,273 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:29:25,274 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:29:25,277 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:29:25,277 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:29:25,279 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:29:26,405 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:29:26,405 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:29:26,408 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:29:26,409 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:29:26,410 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:29:26,413 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:29:26,413 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:29:26,416 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:29:26,417 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:29:26,420 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:29:27,829 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:29:27,830 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:29:27,832 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:29:27,833 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:29:27,835 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:29:27,838 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:29:27,838 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:29:27,841 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:29:27,842 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:29:27,844 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:29:28,897 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:29:28,897 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:29:28,900 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:29:28,900 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:29:28,903 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:29:28,906 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:29:28,907 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:29:28,911 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:29:28,911 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:29:28,913 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:29:31,211 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:29:31,212 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:29:31,215 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:29:31,215 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:29:31,217 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:29:31,314 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:29:31,315 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:29:31,318 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-07 13:29:31,318 [9584] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e+00, 1.e+03, 1.e+06, 1.e+09, 1.e+12, 1.e+15, 1.e+18, 1.e+21,
+       1.e+24, 1.e+27, 1.e+30])
+2021-03-07 13:29:31,320 [9584] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1447.4047944577444 vmax 1.1840159636458368e+26
+2021-03-09 20:07:14,308 [15052] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2021-03-09 20:07:14,315 [15052] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2021-03-09 20:07:14,315 [15052] INFO     root:247: [JupyterRequire] Initializing comms.
+2021-03-09 20:07:14,317 [15052] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2021-03-09 20:07:14,318 [15052] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2021-03-09 20:07:14,318 [15052] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2021-03-09 20:07:14,945 [15052] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2021-03-09 20:07:14,945 [15052] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2021-03-09 20:07:14,945 [15052] INFO     root:247: [JupyterRequire] Initializing comms.
+2021-03-09 20:07:14,947 [15052] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2021-03-09 20:07:14,947 [15052] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2021-03-09 20:07:14,947 [15052] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2021-03-10 17:13:15,114 [15416] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2021-03-10 17:13:15,115 [15416] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2021-03-10 17:13:15,115 [15416] INFO     root:247: [JupyterRequire] Initializing comms.
+2021-03-10 17:13:15,117 [15416] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2021-03-10 17:13:15,118 [15416] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2021-03-10 17:13:15,118 [15416] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2021-03-10 17:13:15,804 [15416] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2021-03-10 17:13:15,804 [15416] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2021-03-10 17:13:15,804 [15416] INFO     root:247: [JupyterRequire] Initializing comms.
+2021-03-10 17:13:15,808 [15416] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2021-03-10 17:13:15,808 [15416] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2021-03-10 17:13:15,808 [15416] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2021-03-10 17:19:59,618 [2828] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2021-03-10 17:19:59,618 [2828] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2021-03-10 17:19:59,619 [2828] INFO     root:247: [JupyterRequire] Initializing comms.
+2021-03-10 17:19:59,620 [2828] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2021-03-10 17:19:59,622 [2828] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2021-03-10 17:19:59,622 [2828] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2021-03-10 17:48:57,319 [3932] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2021-03-10 17:48:57,319 [3932] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2021-03-10 17:48:57,319 [3932] INFO     root:247: [JupyterRequire] Initializing comms.
+2021-03-10 17:48:57,321 [3932] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2021-03-10 17:48:57,321 [3932] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2021-03-10 17:48:57,321 [3932] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2021-03-10 19:20:24,104 [3932] WARNING  py.warnings:109: [JupyterRequire] <ipython-input-107-2a77c5d4751b>:1: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['Wartoœæ ksiêgowa'] = df['Aktualny kurs'] / df['Cena / Wartoœæ ksiêgowa']
+
+2021-03-10 19:20:36,068 [3932] WARNING  py.warnings:109: [JupyterRequire] <ipython-input-108-f57e80b03e10>:1: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['Wartoœæ ksiêgowa'] = df['Aktualny kurs'] / df['Cena / Wartoœæ ksiêgowa']
+
+2021-03-10 19:20:52,318 [3932] WARNING  py.warnings:109: [JupyterRequire] <ipython-input-109-289b90cb1ffc>:1: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['Wartoœæ ksiêgowa'] = round(df['Aktualny kurs'] / df['Cena / Wartoœæ ksiêgowa'],0)
+
+2021-03-10 19:21:03,228 [3932] WARNING  py.warnings:109: [JupyterRequire] <ipython-input-110-ab69b79b3882>:1: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['Wartoœæ ksiêgowa'] = round(df['Aktualny kurs'] / df['Cena / Wartoœæ ksiêgowa'],2)
+
+2021-03-10 19:21:12,271 [3932] WARNING  py.warnings:109: [JupyterRequire] C:\Users\30041519\Anaconda3_8\lib\site-packages\pandas\core\indexing.py:671: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  self._setitem_with_indexer(indexer, value)
+
+2021-03-10 19:21:37,073 [3932] WARNING  py.warnings:109: [JupyterRequire] C:\Users\30041519\Anaconda3_8\lib\site-packages\pandas\core\indexing.py:966: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  self.obj[item] = s
+
+2021-03-10 19:21:43,116 [3932] WARNING  py.warnings:109: [JupyterRequire] <ipython-input-116-ab69b79b3882>:1: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['Wartoœæ ksiêgowa'] = round(df['Aktualny kurs'] / df['Cena / Wartoœæ ksiêgowa'],2)
+
+2021-03-10 19:39:09,821 [3932] WARNING  py.warnings:109: [JupyterRequire] <ipython-input-121-17b1dae2615e>:5: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['Wartoœæ ksiêgowa oczekiwana']=df.apply(wartosc, axis=1)
+
+2021-03-10 19:40:50,761 [3932] WARNING  py.warnings:109: [JupyterRequire] <ipython-input-141-ab69b79b3882>:1: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['Wartoœæ ksiêgowa'] = round(df['Aktualny kurs'] / df['Cena / Wartoœæ ksiêgowa'],2)
+
+2021-03-10 19:40:56,393 [3932] WARNING  py.warnings:109: [JupyterRequire] <ipython-input-145-17b1dae2615e>:5: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['Wartoœæ ksiêgowa oczekiwana']=df.apply(wartosc, axis=1)
+
+2021-03-10 19:44:14,988 [3932] WARNING  py.warnings:109: [JupyterRequire] <ipython-input-147-867786ed631d>:5: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['Wartoœæ ksiêgowa oczekiwana']=df.apply(wartosc, axis=1)
+
+2021-03-10 19:44:24,355 [3932] WARNING  py.warnings:109: [JupyterRequire] <ipython-input-148-911dac078bde>:5: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['Wartoœæ wewnêtrzna na 1 akcje']='0'
+
+2021-03-10 19:44:24,364 [3932] WARNING  py.warnings:109: [JupyterRequire] <ipython-input-148-911dac078bde>:6: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['Wartoœæ wewnêtrzna na 1 akcje']=df.apply(wartosc, axis=1)
+
+2021-03-10 19:45:08,501 [3932] WARNING  py.warnings:109: [JupyterRequire] <ipython-input-149-21b85e62a042>:5: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['Wartoœæ wewnêtrzna na 1 akcje BV']='0'
+
+2021-03-10 19:45:08,511 [3932] WARNING  py.warnings:109: [JupyterRequire] <ipython-input-149-21b85e62a042>:6: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['Wartoœæ wewnêtrzna na 1 akcje BV']=df.apply(wartosc, axis=1)
+
+2021-03-10 19:46:09,603 [3932] WARNING  py.warnings:109: [JupyterRequire] <ipython-input-150-b80fe8d2207a>:5: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['Wartoœæ wewnêtrzna na 1 akcje BVM']='0'
+
+2021-03-10 19:46:09,615 [3932] WARNING  py.warnings:109: [JupyterRequire] <ipython-input-150-b80fe8d2207a>:6: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['Wartoœæ wewnêtrzna na 1 akcje BVM']=df.apply(wartosc, axis=1)
+
+2021-03-10 19:46:19,042 [3932] WARNING  py.warnings:109: [JupyterRequire] <ipython-input-151-080275690def>:5: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['Potencja³ wzrostu BVM %']='0'
+
+2021-03-10 19:46:19,060 [3932] WARNING  py.warnings:109: [JupyterRequire] <ipython-input-151-080275690def>:6: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['Potencja³ wzrostu BVM %']=df.apply(wzrost, axis=1)
+
+2021-03-10 19:47:15,051 [3932] WARNING  py.warnings:109: [JupyterRequire] <ipython-input-152-21319eb254d7>:5: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['Œrednioroczny zwrot BVM %']='0'
+
+2021-03-10 19:47:15,062 [3932] WARNING  py.warnings:109: [JupyterRequire] <ipython-input-152-21319eb254d7>:6: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['Œrednioroczny zwrot BVM %']=df.apply(zwrot, axis=1)
+
+2021-03-10 19:47:44,967 [3932] WARNING  py.warnings:109: [JupyterRequire] <ipython-input-153-a94ee8eb5144>:5: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['Œrednioroczny zwrot BVM %']='0'
+
+2021-03-10 19:47:44,978 [3932] WARNING  py.warnings:109: [JupyterRequire] <ipython-input-153-a94ee8eb5144>:6: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df['Œrednioroczny zwrot BVM %']=df.apply(zwrot, axis=1)
+
+2021-03-10 19:49:54,162 [5776] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2021-03-10 19:49:54,162 [5776] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2021-03-10 19:49:54,162 [5776] INFO     root:247: [JupyterRequire] Initializing comms.
+2021-03-10 19:49:54,164 [5776] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2021-03-10 19:49:54,164 [5776] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2021-03-10 19:49:54,164 [5776] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2021-03-10 19:52:59,124 [5776] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1.6043786028582552 vmax 818.2898959516898
+2021-03-10 19:52:59,129 [5776] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-01, 1.e+00, 1.e+01, 1.e+02, 1.e+03, 1.e+04])
+2021-03-10 19:52:59,472 [5776] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1.6043786028582552 vmax 818.2898959516898
+2021-03-10 19:52:59,472 [5776] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-01, 1.e+00, 1.e+01, 1.e+02, 1.e+03, 1.e+04])
+2021-03-10 19:52:59,474 [5776] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1.6043786028582552 vmax 818.2898959516898
+2021-03-10 19:52:59,474 [5776] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-01, 1.e+00, 1.e+01, 1.e+02, 1.e+03, 1.e+04])
+2021-03-10 19:52:59,475 [5776] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1.6043786028582552 vmax 818.2898959516898
+2021-03-10 19:52:59,475 [5776] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([2.e-01, 3.e-01, 4.e-01, 5.e-01, 6.e-01, 7.e-01, 8.e-01, 9.e-01,
+       2.e+00, 3.e+00, 4.e+00, 5.e+00, 6.e+00, 7.e+00, 8.e+00, 9.e+00,
+       2.e+01, 3.e+01, 4.e+01, 5.e+01, 6.e+01, 7.e+01, 8.e+01, 9.e+01,
+       2.e+02, 3.e+02, 4.e+02, 5.e+02, 6.e+02, 7.e+02, 8.e+02, 9.e+02,
+       2.e+03, 3.e+03, 4.e+03, 5.e+03, 6.e+03, 7.e+03, 8.e+03, 9.e+03,
+       2.e+04, 3.e+04, 4.e+04, 5.e+04, 6.e+04, 7.e+04, 8.e+04, 9.e+04])
+2021-03-10 19:52:59,516 [5776] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1.6043786028582552 vmax 818.2898959516898
+2021-03-10 19:52:59,516 [5776] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-01, 1.e+00, 1.e+01, 1.e+02, 1.e+03, 1.e+04])
+2021-03-10 19:52:59,517 [5776] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1.6043786028582552 vmax 818.2898959516898
+2021-03-10 19:52:59,517 [5776] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-01, 1.e+00, 1.e+01, 1.e+02, 1.e+03, 1.e+04])
+2021-03-10 19:52:59,518 [5776] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1.6043786028582552 vmax 818.2898959516898
+2021-03-10 19:52:59,518 [5776] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([2.e-01, 3.e-01, 4.e-01, 5.e-01, 6.e-01, 7.e-01, 8.e-01, 9.e-01,
+       2.e+00, 3.e+00, 4.e+00, 5.e+00, 6.e+00, 7.e+00, 8.e+00, 9.e+00,
+       2.e+01, 3.e+01, 4.e+01, 5.e+01, 6.e+01, 7.e+01, 8.e+01, 9.e+01,
+       2.e+02, 3.e+02, 4.e+02, 5.e+02, 6.e+02, 7.e+02, 8.e+02, 9.e+02,
+       2.e+03, 3.e+03, 4.e+03, 5.e+03, 6.e+03, 7.e+03, 8.e+03, 9.e+03,
+       2.e+04, 3.e+04, 4.e+04, 5.e+04, 6.e+04, 7.e+04, 8.e+04, 9.e+04])
+2021-03-10 19:52:59,730 [5776] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1.6043786028582552 vmax 818.2898959516898
+2021-03-10 19:52:59,732 [5776] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-01, 1.e+00, 1.e+01, 1.e+02, 1.e+03, 1.e+04])
+2021-03-10 19:52:59,732 [5776] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1.6043786028582552 vmax 818.2898959516898
+2021-03-10 19:52:59,733 [5776] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-01, 1.e+00, 1.e+01, 1.e+02, 1.e+03, 1.e+04])
+2021-03-10 19:52:59,733 [5776] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1.6043786028582552 vmax 818.2898959516898
+2021-03-10 19:52:59,733 [5776] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([2.e-01, 3.e-01, 4.e-01, 5.e-01, 6.e-01, 7.e-01, 8.e-01, 9.e-01,
+       2.e+00, 3.e+00, 4.e+00, 5.e+00, 6.e+00, 7.e+00, 8.e+00, 9.e+00,
+       2.e+01, 3.e+01, 4.e+01, 5.e+01, 6.e+01, 7.e+01, 8.e+01, 9.e+01,
+       2.e+02, 3.e+02, 4.e+02, 5.e+02, 6.e+02, 7.e+02, 8.e+02, 9.e+02,
+       2.e+03, 3.e+03, 4.e+03, 5.e+03, 6.e+03, 7.e+03, 8.e+03, 9.e+03,
+       2.e+04, 3.e+04, 4.e+04, 5.e+04, 6.e+04, 7.e+04, 8.e+04, 9.e+04])
+2021-03-10 19:52:59,737 [5776] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1.6043786028582552 vmax 818.2898959516898
+2021-03-10 19:52:59,737 [5776] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-01, 1.e+00, 1.e+01, 1.e+02, 1.e+03, 1.e+04])
+2021-03-10 19:52:59,738 [5776] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1.6043786028582552 vmax 818.2898959516898
+2021-03-10 19:52:59,739 [5776] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-01, 1.e+00, 1.e+01, 1.e+02, 1.e+03, 1.e+04])
+2021-03-10 19:52:59,739 [5776] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1.6043786028582552 vmax 818.2898959516898
+2021-03-10 19:52:59,739 [5776] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([2.e-01, 3.e-01, 4.e-01, 5.e-01, 6.e-01, 7.e-01, 8.e-01, 9.e-01,
+       2.e+00, 3.e+00, 4.e+00, 5.e+00, 6.e+00, 7.e+00, 8.e+00, 9.e+00,
+       2.e+01, 3.e+01, 4.e+01, 5.e+01, 6.e+01, 7.e+01, 8.e+01, 9.e+01,
+       2.e+02, 3.e+02, 4.e+02, 5.e+02, 6.e+02, 7.e+02, 8.e+02, 9.e+02,
+       2.e+03, 3.e+03, 4.e+03, 5.e+03, 6.e+03, 7.e+03, 8.e+03, 9.e+03,
+       2.e+04, 3.e+04, 4.e+04, 5.e+04, 6.e+04, 7.e+04, 8.e+04, 9.e+04])
+2021-03-10 19:53:00,000 [5776] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1.6043786028582552 vmax 818.2898959516898
+2021-03-10 19:53:00,000 [5776] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-01, 1.e+00, 1.e+01, 1.e+02, 1.e+03, 1.e+04])
+2021-03-10 19:53:00,003 [5776] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1.6043786028582552 vmax 818.2898959516898
+2021-03-10 19:53:00,003 [5776] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-01, 1.e+00, 1.e+01, 1.e+02, 1.e+03, 1.e+04])
+2021-03-10 19:53:00,005 [5776] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1.6043786028582552 vmax 818.2898959516898
+2021-03-10 19:53:00,006 [5776] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([2.e-01, 3.e-01, 4.e-01, 5.e-01, 6.e-01, 7.e-01, 8.e-01, 9.e-01,
+       2.e+00, 3.e+00, 4.e+00, 5.e+00, 6.e+00, 7.e+00, 8.e+00, 9.e+00,
+       2.e+01, 3.e+01, 4.e+01, 5.e+01, 6.e+01, 7.e+01, 8.e+01, 9.e+01,
+       2.e+02, 3.e+02, 4.e+02, 5.e+02, 6.e+02, 7.e+02, 8.e+02, 9.e+02,
+       2.e+03, 3.e+03, 4.e+03, 5.e+03, 6.e+03, 7.e+03, 8.e+03, 9.e+03,
+       2.e+04, 3.e+04, 4.e+04, 5.e+04, 6.e+04, 7.e+04, 8.e+04, 9.e+04])
+2021-03-10 19:53:00,012 [5776] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1.6043786028582552 vmax 818.2898959516898
+2021-03-10 19:53:00,012 [5776] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-01, 1.e+00, 1.e+01, 1.e+02, 1.e+03, 1.e+04])
+2021-03-10 19:53:00,014 [5776] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1.6043786028582552 vmax 818.2898959516898
+2021-03-10 19:53:00,014 [5776] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-01, 1.e+00, 1.e+01, 1.e+02, 1.e+03, 1.e+04])
+2021-03-10 19:53:00,015 [5776] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1.6043786028582552 vmax 818.2898959516898
+2021-03-10 19:53:00,015 [5776] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([2.e-01, 3.e-01, 4.e-01, 5.e-01, 6.e-01, 7.e-01, 8.e-01, 9.e-01,
+       2.e+00, 3.e+00, 4.e+00, 5.e+00, 6.e+00, 7.e+00, 8.e+00, 9.e+00,
+       2.e+01, 3.e+01, 4.e+01, 5.e+01, 6.e+01, 7.e+01, 8.e+01, 9.e+01,
+       2.e+02, 3.e+02, 4.e+02, 5.e+02, 6.e+02, 7.e+02, 8.e+02, 9.e+02,
+       2.e+03, 3.e+03, 4.e+03, 5.e+03, 6.e+03, 7.e+03, 8.e+03, 9.e+03,
+       2.e+04, 3.e+04, 4.e+04, 5.e+04, 6.e+04, 7.e+04, 8.e+04, 9.e+04])
+2021-03-10 19:53:00,223 [5776] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1.6043786028582552 vmax 818.2898959516898
+2021-03-10 19:53:00,223 [5776] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-01, 1.e+00, 1.e+01, 1.e+02, 1.e+03, 1.e+04])
+2021-03-10 19:53:00,224 [5776] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1.6043786028582552 vmax 818.2898959516898
+2021-03-10 19:53:00,224 [5776] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-01, 1.e+00, 1.e+01, 1.e+02, 1.e+03, 1.e+04])
+2021-03-10 19:53:00,225 [5776] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1.6043786028582552 vmax 818.2898959516898
+2021-03-10 19:53:00,225 [5776] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([2.e-01, 3.e-01, 4.e-01, 5.e-01, 6.e-01, 7.e-01, 8.e-01, 9.e-01,
+       2.e+00, 3.e+00, 4.e+00, 5.e+00, 6.e+00, 7.e+00, 8.e+00, 9.e+00,
+       2.e+01, 3.e+01, 4.e+01, 5.e+01, 6.e+01, 7.e+01, 8.e+01, 9.e+01,
+       2.e+02, 3.e+02, 4.e+02, 5.e+02, 6.e+02, 7.e+02, 8.e+02, 9.e+02,
+       2.e+03, 3.e+03, 4.e+03, 5.e+03, 6.e+03, 7.e+03, 8.e+03, 9.e+03,
+       2.e+04, 3.e+04, 4.e+04, 5.e+04, 6.e+04, 7.e+04, 8.e+04, 9.e+04])
+2021-03-10 19:53:00,229 [5776] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1.6043786028582552 vmax 818.2898959516898
+2021-03-10 19:53:00,229 [5776] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-01, 1.e+00, 1.e+01, 1.e+02, 1.e+03, 1.e+04])
+2021-03-10 19:53:00,230 [5776] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1.6043786028582552 vmax 818.2898959516898
+2021-03-10 19:53:00,231 [5776] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-01, 1.e+00, 1.e+01, 1.e+02, 1.e+03, 1.e+04])
+2021-03-10 19:53:00,231 [5776] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1.6043786028582552 vmax 818.2898959516898
+2021-03-10 19:53:00,232 [5776] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([2.e-01, 3.e-01, 4.e-01, 5.e-01, 6.e-01, 7.e-01, 8.e-01, 9.e-01,
+       2.e+00, 3.e+00, 4.e+00, 5.e+00, 6.e+00, 7.e+00, 8.e+00, 9.e+00,
+       2.e+01, 3.e+01, 4.e+01, 5.e+01, 6.e+01, 7.e+01, 8.e+01, 9.e+01,
+       2.e+02, 3.e+02, 4.e+02, 5.e+02, 6.e+02, 7.e+02, 8.e+02, 9.e+02,
+       2.e+03, 3.e+03, 4.e+03, 5.e+03, 6.e+03, 7.e+03, 8.e+03, 9.e+03,
+       2.e+04, 3.e+04, 4.e+04, 5.e+04, 6.e+04, 7.e+04, 8.e+04, 9.e+04])
+2021-03-10 19:53:00,670 [5776] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1.6043786028582552 vmax 818.2898959516898
+2021-03-10 19:53:00,671 [5776] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-01, 1.e+00, 1.e+01, 1.e+02, 1.e+03, 1.e+04])
+2021-03-10 19:53:00,671 [5776] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1.6043786028582552 vmax 818.2898959516898
+2021-03-10 19:53:00,671 [5776] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-01, 1.e+00, 1.e+01, 1.e+02, 1.e+03, 1.e+04])
+2021-03-10 19:53:00,672 [5776] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1.6043786028582552 vmax 818.2898959516898
+2021-03-10 19:53:00,673 [5776] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([2.e-01, 3.e-01, 4.e-01, 5.e-01, 6.e-01, 7.e-01, 8.e-01, 9.e-01,
+       2.e+00, 3.e+00, 4.e+00, 5.e+00, 6.e+00, 7.e+00, 8.e+00, 9.e+00,
+       2.e+01, 3.e+01, 4.e+01, 5.e+01, 6.e+01, 7.e+01, 8.e+01, 9.e+01,
+       2.e+02, 3.e+02, 4.e+02, 5.e+02, 6.e+02, 7.e+02, 8.e+02, 9.e+02,
+       2.e+03, 3.e+03, 4.e+03, 5.e+03, 6.e+03, 7.e+03, 8.e+03, 9.e+03,
+       2.e+04, 3.e+04, 4.e+04, 5.e+04, 6.e+04, 7.e+04, 8.e+04, 9.e+04])
+2021-03-10 19:53:00,692 [5776] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1.6043786028582552 vmax 818.2898959516898
+2021-03-10 19:53:00,692 [5776] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-01, 1.e+00, 1.e+01, 1.e+02, 1.e+03, 1.e+04])
+2021-03-10 19:53:00,694 [5776] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1.6043786028582552 vmax 818.2898959516898
+2021-03-10 19:53:00,694 [5776] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([1.e-01, 1.e+00, 1.e+01, 1.e+02, 1.e+03, 1.e+04])
+2021-03-10 19:53:00,694 [5776] DEBUG    matplotlib.ticker:2422: [JupyterRequire] vmin 1.6043786028582552 vmax 818.2898959516898
+2021-03-10 19:53:00,695 [5776] DEBUG    matplotlib.ticker:2473: [JupyterRequire] ticklocs array([2.e-01, 3.e-01, 4.e-01, 5.e-01, 6.e-01, 7.e-01, 8.e-01, 9.e-01,
+       2.e+00, 3.e+00, 4.e+00, 5.e+00, 6.e+00, 7.e+00, 8.e+00, 9.e+00,
+       2.e+01, 3.e+01, 4.e+01, 5.e+01, 6.e+01, 7.e+01, 8.e+01, 9.e+01,
+       2.e+02, 3.e+02, 4.e+02, 5.e+02, 6.e+02, 7.e+02, 8.e+02, 9.e+02,
+       2.e+03, 3.e+03, 4.e+03, 5.e+03, 6.e+03, 7.e+03, 8.e+03, 9.e+03,
+       2.e+04, 3.e+04, 4.e+04, 5.e+04, 6.e+04, 7.e+04, 8.e+04, 9.e+04])
+2021-03-10 19:57:12,173 [9800] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2021-03-10 19:57:12,173 [9800] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2021-03-10 19:57:12,173 [9800] INFO     root:247: [JupyterRequire] Initializing comms.
+2021-03-10 19:57:12,175 [9800] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2021-03-10 19:57:12,176 [9800] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2021-03-10 19:57:12,176 [9800] DEBUG    root:97: [JupyterRequire] Registering comm targets.

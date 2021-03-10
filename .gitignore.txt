@@ -1,2 +1,3 @@
 Pliki z danymi:
 Spółki do wyceny DCF.xlsx
+Spółki do wyceny metoda DCF.xlsx
