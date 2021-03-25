@@ -1,6 +1,6 @@
 # Valuation of shares of selected companies
 
-## Valuation of a selected listed companies using 3 methods:
+## Valuation of a selected companies using 3 methods:
 
 ### 1. Method based on discounted cash flow (DCF)
 Discounted cash flow (DCF) is one of the methods used to value an investment, company or other asset based on its expected future cash flows and changes in the value of money over time. The purpose of this method is to estimate and discount all future cash flows to determine their present value. The discount rate level is the cost of capital and takes into account the risk assessment regarding future cash flows. The discounted cash flow method is widely used in the areas of financial investment analysis, real estate development and corporate management. <br>
